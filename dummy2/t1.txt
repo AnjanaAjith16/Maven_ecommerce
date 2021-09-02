@@ -1,1 +1,2 @@
 line 1 - first change after cloning.
+line 2 - after creating new branch - b1, modified this file by adding a new line. This is the line. (the 2 lines are local)
